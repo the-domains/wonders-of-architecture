@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[wonders of architecture]]></title>
-        <description><![CDATA[wonders of architecture]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Wonders of Architecture]]></title>
+        <description><![CDATA[Wonders of Architecture]]></description>
+        <link>https://thegrid.ai/wonders-of-architecture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 01:59:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 02:12:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wonders-of-architecture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ryerson architecture students created this "warming" station on the beach near my house]]></title>
+            <description><![CDATA[<article><h1>ryerson architecture students created this "warming" station on the beach near my house</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c75a53a49202999b6481075188ac5779cf744af1.png"></article>]]></description>
+            <link>urn:uuid:e47ad991-9e95-494a-bf16-8f2ca87a999c</link>
+            <guid isPermaLink="false">26685f6c-3a12-402e-b75c-74abfed07342</guid>
+            <pubDate>Wed, 09 Mar 2016 02:12:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Here I will post architectural wonders that inspire me</p>]]></description>
-            <link>undefinedhere-i-will-post-architectural-wonders-that-inspire-me/index.html</link>
+            <link>https://thegrid.ai/wonders-of-architecture/here-i-will-post-architectural-wonders-that-inspire-me/index.html</link>
             <guid isPermaLink="false">7b57fc0f-fbde-49d7-be79-f4c886454aa4</guid>
             <pubDate>Wed, 09 Mar 2016 01:58:07 GMT</pubDate>
         </item>
